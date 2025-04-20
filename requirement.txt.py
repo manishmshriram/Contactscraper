@@ -2,5 +2,5 @@ streamlit
 pandas
 beautifulsoup4
 requests
-googlesearch-python
 openpyxl
+googlesearch-python
